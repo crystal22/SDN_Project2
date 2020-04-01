@@ -1,0 +1,187 @@
+Client MAC Address, Source AP, Source AP Band, Target AP, Target AP Band, Source SS, Target SS, Steering Type, Steering Status, Steering Time, Update Time, LocalTime, Time Zone
+c0:ee:fb:dd:2f:ed,04:bf:6d:5e:12:99,5G,,,-80,,LOW Signal Strength,Not Moved,1551879197,1551879377,06-03-2019 08:36:17,America/New_York
+c0:ee:fb:dd:2f:ed,04:bf:6d:5e:12:99,5G,,,-86,,LOW Signal Strength,Missing,1551879407,1551879647,06-03-2019 08:40:47,America/New_York
+c0:ee:fb:dd:2f:ed,b8:ec:a3:2f:bd:39,5G,b8:ec:a3:2f:bd:38,2.4G,-75,-62,LOW Signal Strength,Success,1551898157,1551898337,06-03-2019 13:52:17,America/New_York
+c0:ee:fb:dd:2f:ed,b8:ec:a3:2f:bd:39,5G,b8:ec:a3:2f:bd:38,2.4G,-75,-64,LOW Signal Strength,Success,1551898367,1551898547,06-03-2019 13:55:47,America/New_York
+c0:ee:fb:dd:2f:ed,b8:ec:a3:2f:bd:38,2.4G,b8:ec:a3:2f:bd:39,5G,-61,-73,5G PREFERENCE,Success,1551898587,1551898787,06-03-2019 13:59:47,America/New_York
+c0:ee:fb:dd:2f:ed,b8:ec:a3:2f:bd:39,5G,b8:ec:a3:2f:bd:38,2.4G,-75,-61,LOW Signal Strength,Success,1551899087,1551899267,06-03-2019 14:07:47,America/New_York
+c0:ee:fb:dd:2f:ed,b8:ec:a3:2f:bd:39,5G,b8:ec:a3:2f:bd:38,2.4G,-75,-63,LOW Signal Strength,Success,1551899267,1551899447,06-03-2019 14:10:47,America/New_York
+fc:c2:de:94:56:d9,04:bf:6d:5e:26:65,5G,,,-82,,LOW Signal Strength,Not Moved,1551879047,1551879227,06-03-2019 08:33:47,America/New_York
+fc:c2:de:94:56:d9,04:bf:6d:5e:26:65,5G,,,-84,,LOW Signal Strength,Missing,1551879257,1551879497,06-03-2019 08:38:17,America/New_York
+fc:c2:de:94:56:d9,04:bf:6d:5e:26:65,5G,,,-78,,LOW Signal Strength,Missing,1551895157,1551895397,06-03-2019 13:03:17,America/New_York
+fc:c2:de:94:56:d9,04:bf:6d:5e:26:64,2.4G,04:bf:6d:5e:26:65,5G,-34,-51,5G PREFERENCE,Success,1551907827,1551908027,06-03-2019 16:33:47,America/New_York
+fc:c2:de:94:56:d9,04:bf:6d:5e:26:64,2.4G,04:bf:6d:5e:26:65,5G,-40,-60,5G PREFERENCE,Success,1551924327,1551924527,06-03-2019 21:08:47,America/New_York
+fc:c2:de:94:56:d9,04:bf:6d:5e:26:64,2.4G,04:bf:6d:5e:26:65,5G,-36,-51,5G PREFERENCE,Success,1551928887,1551929087,06-03-2019 22:24:47,America/New_York
+c0:a6:00:02:f4:31,04:bf:6d:5e:11:8d,5G,,,-75,,LOW Signal Strength,Not Moved,1551876317,1551876497,06-03-2019 07:48:17,America/New_York
+c0:a6:00:02:f4:31,04:bf:6d:5e:11:8d,5G,,,-77,,LOW Signal Strength,Not Moved,1551876497,1551876677,06-03-2019 07:51:17,America/New_York
+c0:a6:00:02:f4:31,04:bf:6d:5e:11:8d,5G,04:bf:6d:5e:11:8c,2.4G,-75,-57,LOW Signal Strength,Success,1551930647,1551930827,06-03-2019 22:53:47,America/New_York
+c0:a6:00:02:f4:31,04:bf:6d:5e:11:8d,5G,,,-75,,LOW Signal Strength,Not Moved,1551930827,1551931007,06-03-2019 22:56:47,America/New_York
+c0:bd:d1:7e:1a:7e,a0:e4:cb:fc:b4:ec,2.4G,a0:e4:cb:fc:b4:ed,5G,-34,-59,5G PREFERENCE,Success,1551858597,1551858797,06-03-2019 02:53:17,America/New_York
+e4:f0:42:a5:85:38,04:bf:6d:5e:12:8d,5G,04:bf:6d:5e:12:8c,2.4G,-75,-59,LOW Signal Strength,Success,1551922937,1551923117,06-03-2019 20:45:17,America/New_York
+e4:f0:42:a5:85:38,04:bf:6d:5e:12:8c,2.4G,04:bf:6d:5e:12:8d,5G,-59,-72,5G PREFERENCE,Success,1551923127,1551923327,06-03-2019 20:48:47,America/New_York
+e4:f0:42:a5:85:38,04:bf:6d:5e:12:8d,5G,04:bf:6d:5e:12:8c,2.4G,-75,-56,LOW Signal Strength,Success,1551923717,1551923897,06-03-2019 20:58:17,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,,,-76,,LOW Signal Strength,Not Moved,1551870617,1551870797,06-03-2019 06:13:17,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,,,-78,,LOW Signal Strength,Not Moved,1551870797,1551870977,06-03-2019 06:16:17,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,04:bf:6d:5e:26:68,2.4G,-75,-65,LOW Signal Strength,Success,1551910577,1551910757,06-03-2019 17:19:17,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,04:bf:6d:5e:26:68,2.4G,-76,-65,LOW Signal Strength,Success,1551910757,1551910937,06-03-2019 17:22:17,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,,,-75,,LOW Signal Strength,Not Moved,1551918407,1551918587,06-03-2019 19:29:47,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,,,-75,,LOW Signal Strength,Not Moved,1551922127,1551922307,06-03-2019 20:31:47,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:68,2.4G,04:bf:6d:5e:26:69,5G,-57,-79,5G PREFERENCE,Success,1551924657,1551924857,06-03-2019 21:14:17,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,,,-75,,LOW Signal Strength,Not Moved,1551930587,1551930767,06-03-2019 22:52:47,America/New_York
+d0:d2:b0:4e:d9:8d,04:bf:6d:5e:26:69,5G,,,-75,,LOW Signal Strength,Not Moved,1551930797,1551930977,06-03-2019 22:56:17,America/New_York
+8c:f5:a3:cf:a6:39,b8:ec:a3:2f:bd:5c,2.4G,b8:ec:a3:2f:bd:5d,5G,-43,-58,5G PREFERENCE,Success,1551865288,1551865487,06-03-2019 04:44:47,America/New_York
+8c:f5:a3:cf:a6:39,b8:ec:a3:2f:bd:5d,5G,,,-81,,LOW Signal Strength,Not Moved,1551887087,1551887267,06-03-2019 10:47:47,America/New_York
+8c:f5:a3:cf:a6:39,b8:ec:a3:2f:bd:5c,2.4G,b8:ec:a3:2f:bd:5d,5G,-55,-54,5G PREFERENCE,Success,1551887488,1551887687,06-03-2019 10:54:47,America/New_York
+8c:f5:a3:cf:a6:39,b8:ec:a3:2f:bd:5d,5G,,,-76,,LOW Signal Strength,Not Moved,1551916367,1551916547,06-03-2019 18:55:47,America/New_York
+8c:f5:a3:cf:a6:39,b8:ec:a3:2f:bd:5d,5G,,,-83,,LOW Signal Strength,Missing,1551916548,1551916787,06-03-2019 18:59:47,America/New_York
+2c:0e:3d:90:b5:26,b8:ec:a3:2f:bd:45,5G,,,-78,,LOW Signal Strength,Missing,1551915257,1551915497,06-03-2019 18:38:17,America/New_York
+bc:e1:43:0a:09:04,b8:ec:a3:2f:bd:7c,2.4G,b8:ec:a3:2f:bd:7d,5G,-52,-52,5G PREFERENCE,Success,1551852567,1551852767,06-03-2019 01:12:47,America/New_York
+bc:e1:43:0a:09:04,b8:ec:a3:2f:bd:7d,5G,,,-82,,LOW Signal Strength,Not Moved,1551896087,1551896267,06-03-2019 13:17:47,America/New_York
+bc:e1:43:0a:09:04,b8:ec:a3:2f:bd:7d,5G,,,-84,,LOW Signal Strength,Missing,1551896297,1551896537,06-03-2019 13:22:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,a0:e4:cb:fc:b4:ec,2.4G,-75,-49,LOW Signal Strength,Success,1551853487,1551853667,06-03-2019 01:27:47,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,a0:e4:cb:fc:b4:ec,2.4G,-75,-48,LOW Signal Strength,Success,1551853667,1551853847,06-03-2019 01:30:47,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ec,2.4G,a0:e4:cb:fc:b4:ed,5G,-48,-63,5G PREFERENCE,Success,1551853857,1551854057,06-03-2019 01:34:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,,,-78,,LOW Signal Strength,Not Moved,1551883067,1551883247,06-03-2019 09:40:47,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ec,2.4G,,,0,,5G PREFERENCE,Missing,1551891897,1551892157,06-03-2019 12:09:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,a0:e4:cb:fc:b4:ec,2.4G,-75,-48,LOW Signal Strength,Success,1551893327,1551893507,06-03-2019 12:31:47,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,a0:e4:cb:fc:b4:ec,2.4G,-75,-43,LOW Signal Strength,Success,1551893507,1551893687,06-03-2019 12:34:47,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ec,2.4G,a0:e4:cb:fc:b4:ed,5G,-43,-55,5G PREFERENCE,Success,1551893697,1551893897,06-03-2019 12:38:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ec,2.4G,a0:e4:cb:fc:b4:ed,5G,-39,-57,5G PREFERENCE,Success,1551903417,1551903617,06-03-2019 15:20:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,,,-83,,LOW Signal Strength,Not Moved,1551904277,1551904457,06-03-2019 15:34:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,,,-83,,LOW Signal Strength,Missing,1551904457,1551904697,06-03-2019 15:38:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ec,2.4G,a0:e4:cb:fc:b4:ed,5G,-37,-56,5G PREFERENCE,Success,1551923877,1551924077,06-03-2019 21:01:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,,,-78,,LOW Signal Strength,Not Moved,1551927257,1551927437,06-03-2019 21:57:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ed,5G,,,-86,,LOW Signal Strength,Not Moved,1551927437,1551927617,06-03-2019 22:00:17,America/New_York
+34:12:f9:e8:4d:da,a0:e4:cb:fc:b4:ec,2.4G,a0:e4:cb:fc:b4:ed,5G,-40,-53,5G PREFERENCE,Success,1551928257,1551928457,06-03-2019 22:14:17,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,,,-75,,LOW Signal Strength,Not Moved,1551850847,1551851027,06-03-2019 00:43:47,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,04:bf:6d:5e:12:80,2.4G,-79,-75,LOW Signal Strength,Success,1551851057,1551851237,06-03-2019 00:47:17,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,,,-76,,LOW Signal Strength,Not Moved,1551880517,1551880697,06-03-2019 08:58:17,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,,,-82,,LOW Signal Strength,Not Moved,1551914177,1551914357,06-03-2019 18:19:17,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,,,-86,,LOW Signal Strength,Missing,1551914357,1551914597,06-03-2019 18:23:17,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,,,-76,,LOW Signal Strength,Not Moved,1551931037,1551931217,06-03-2019 23:00:17,America/New_York
+a0:99:9b:39:ae:b0,04:bf:6d:5e:12:81,5G,,,-75,,LOW Signal Strength,Not Moved,1551931247,1551931427,06-03-2019 23:03:47,America/New_York
+10:cd:b6:00:ad:eb,04:bf:6d:5e:26:7c,2.4G,04:bf:6d:5e:26:7d,5G,-37,-35,5G PREFERENCE,Success,1551905097,1551905297,06-03-2019 15:48:17,America/New_York
+dc:0b:34:c8:d7:54,b8:ec:a3:2f:bd:6c,2.4G,,,-41,,5G PREFERENCE,Not Moved,1551892257,1551892457,06-03-2019 12:14:17,America/New_York
+dc:0b:34:c8:d7:54,b8:ec:a3:2f:bd:6c,2.4G,b8:ec:a3:2f:bd:6d,5G,-40,-61,5G PREFERENCE,Success,1551892467,1551892667,06-03-2019 12:17:47,America/New_York
+dc:0b:34:c8:d7:54,b8:ec:a3:2f:bd:6c,2.4G,b8:ec:a3:2f:bd:6d,5G,-37,-56,5G PREFERENCE,Success,1551903837,1551904037,06-03-2019 15:27:17,America/New_York
+dc:ef:ca:7c:34:64,b8:ec:a3:2f:bd:74,2.4G,b8:ec:a3:2f:bd:75,5G,-53,-53,5G PREFERENCE,Success,1551909267,1551909467,06-03-2019 16:57:47,America/New_York
+54:b1:21:d4:37:2c,b8:ec:a3:2f:bd:34,2.4G,04:bf:6d:5e:12:70,2.4G,-46,-65,5G PREFERENCE,,1551864657,1551864857,06-03-2019 04:34:17,America/New_York
+24:a0:74:0f:36:40,b8:ec:a3:2f:bd:48,2.4G,b8:ec:a3:2f:bd:49,5G,-50,-48,5G PREFERENCE,Success,1551895708,1551895907,06-03-2019 13:11:47,America/New_York
+24:a0:74:0f:36:40,b8:ec:a3:2f:bd:48,2.4G,b8:ec:a3:2f:bd:49,5G,-54,-62,5G PREFERENCE,Success,1551908848,1551909047,06-03-2019 16:50:47,America/New_York
+88:07:4b:e4:19:d4,b8:ec:a3:2f:bd:69,5G,,,-82,,LOW Signal Strength,Not Moved,1551923147,1551923327,06-03-2019 20:48:47,America/New_York
+9c:e0:63:36:09:ce,b8:ec:a3:2f:bd:25,5G,,,-78,,LOW Signal Strength,Not Moved,1551879947,1551880127,06-03-2019 08:48:47,America/New_York
+9c:e0:63:36:09:ce,b8:ec:a3:2f:bd:25,5G,,,-86,,LOW Signal Strength,Not Moved,1551880127,1551880307,06-03-2019 08:51:47,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-77,-81,LOW Signal Strength,Success,1551873497,1551873677,06-03-2019 07:01:17,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-79,-81,LOW Signal Strength,Success,1551873677,1551873857,06-03-2019 07:04:17,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,,,-75,,LOW Signal Strength,Not Moved,1551914357,1551914537,06-03-2019 18:22:17,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,,,-75,,LOW Signal Strength,Not Moved,1551918407,1551918587,06-03-2019 19:29:47,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-75,-51,LOW Signal Strength,Success,1551922667,1551922847,06-03-2019 20:40:47,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,,,-75,,LOW Signal Strength,Not Moved,1551922847,1551923027,06-03-2019 20:43:47,America/New_York
+f8:2d:7c:89:d5:3f,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-75,-55,LOW Signal Strength,Success,1551926507,1551926687,06-03-2019 21:44:47,America/New_York
+cc:20:e8:24:de:ec,b8:ec:a3:2f:bd:fd,5G,,,-77,,LOW Signal Strength,Not Moved,1551883187,1551883367,06-03-2019 09:42:47,America/New_York
+b4:cd:27:14:1a:79,b8:ec:a3:2f:bd:75,5G,,,-79,,LOW Signal Strength,Not Moved,1551882947,1551883127,06-03-2019 09:38:47,America/New_York
+a0:d7:95:21:05:89,b8:ec:a3:2f:bd:49,5G,,,-75,,LOW Signal Strength,Not Moved,1551901307,1551901487,06-03-2019 14:44:47,America/New_York
+a0:d7:95:21:05:89,b8:ec:a3:2f:bd:49,5G,,,-75,,LOW Signal Strength,Missing,1551901487,1551901727,06-03-2019 14:48:47,America/New_York
+58:82:a8:64:a7:f1,04:bf:6d:5e:12:64,2.4G,04:bf:6d:5e:12:65,5G,-42,-45,5G PREFERENCE,Success,1551849508,1551849737,06-03-2019 00:22:17,America/New_York
+58:82:a8:64:a7:f1,04:bf:6d:5e:12:64,2.4G,,,-42,,5G PREFERENCE,Missing,1551863907,1551864167,06-03-2019 04:22:47,America/New_York
+40:bc:60:b8:47:9a,b8:ec:a3:2f:bd:2d,5G,,,-82,,LOW Signal Strength,Not Moved,1551912797,1551912977,06-03-2019 17:56:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-47,LOW Signal Strength,Success,1551885137,1551885317,06-03-2019 10:15:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-43,LOW Signal Strength,Success,1551885347,1551885527,06-03-2019 10:18:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2c,2.4G,b8:ec:a3:2f:bd:2d,5G,-43,-60,5G PREFERENCE,Success,1551885537,1551885737,06-03-2019 10:22:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-59,LOW Signal Strength,Success,1551907487,1551907667,06-03-2019 16:27:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2c,2.4G,b8:ec:a3:2f:bd:2d,5G,-59,-71,5G PREFERENCE,Success,1551907677,1551907877,06-03-2019 16:31:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-55,LOW Signal Strength,Success,1551908057,1551908237,06-03-2019 16:37:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-56,LOW Signal Strength,Success,1551908267,1551908447,06-03-2019 16:40:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2c,2.4G,,,-56,,5G PREFERENCE,Not Moved,1551908457,1551908657,06-03-2019 16:44:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2c,2.4G,b8:ec:a3:2f:bd:2d,5G,-51,-68,5G PREFERENCE,Success,1551908667,1551908867,06-03-2019 16:47:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-50,LOW Signal Strength,Success,1551911927,1551912107,06-03-2019 17:41:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,b8:ec:a3:2f:bd:2c,2.4G,-75,-50,LOW Signal Strength,Success,1551912137,1551912317,06-03-2019 17:45:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2c,2.4G,b8:ec:a3:2f:bd:2d,5G,-50,-55,5G PREFERENCE,Success,1551912327,1551912527,06-03-2019 17:48:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,,,-80,,LOW Signal Strength,Not Moved,1551912827,1551913007,06-03-2019 17:56:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,,,-85,,LOW Signal Strength,Missing,1551913007,1551913247,06-03-2019 18:00:47,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,,,-75,,LOW Signal Strength,Not Moved,1551925037,1551925217,06-03-2019 21:20:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,,,-82,,LOW Signal Strength,Not Moved,1551925217,1551925397,06-03-2019 21:23:17,America/New_York
+f0:0f:ec:f8:01:ac,b8:ec:a3:2f:bd:2d,5G,,,-82,,LOW Signal Strength,Missing,1551925397,1551925637,06-03-2019 21:27:17,America/New_York
+d8:c4:6a:23:6a:7a,b8:ec:a3:2f:bd:1d,5G,,,-81,,LOW Signal Strength,Not Moved,1551882167,1551882347,06-03-2019 09:25:47,America/New_York
+d8:c4:6a:23:6a:7a,b8:ec:a3:2f:bd:1d,5G,,,-86,,LOW Signal Strength,Missing,1551882377,1551882617,06-03-2019 09:30:17,America/New_York
+04:d6:aa:66:76:5a,04:bf:6d:5e:26:69,5G,04:bf:6d:5e:26:68,2.4G,-77,-59,LOW Signal Strength,Success,1551871787,1551871967,06-03-2019 06:32:47,America/New_York
+04:d6:aa:66:76:5a,04:bf:6d:5e:26:68,2.4G,,,-59,,5G PREFERENCE,Not Moved,1551871977,1551872177,06-03-2019 06:36:17,America/New_York
+04:d6:aa:66:76:5a,04:bf:6d:5e:26:68,2.4G,04:bf:6d:5e:26:69,5G,-54,-69,5G PREFERENCE,Success,1551872187,1551872387,06-03-2019 06:39:47,America/New_York
+04:d6:aa:66:76:5a,04:bf:6d:5e:26:69,5G,,,-76,,LOW Signal Strength,Not Moved,1551878147,1551878327,06-03-2019 08:18:47,America/New_York
+04:d6:aa:66:76:5a,04:bf:6d:5e:26:69,5G,,,-76,,LOW Signal Strength,Not Moved,1551913697,1551913877,06-03-2019 18:11:17,America/New_York
+cc:fa:00:b5:65:de,04:bf:6d:5e:12:8d,5G,,,-77,,LOW Signal Strength,Missing,1551873137,1551873377,06-03-2019 06:56:17,America/New_York
+cc:fa:00:b5:65:de,04:bf:6d:5e:12:8c,2.4G,,,-51,,5G PREFERENCE,Missing,1551890517,1551890777,06-03-2019 11:46:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-75,-49,LOW Signal Strength,Success,1551886037,1551886217,06-03-2019 10:30:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,,,-75,,LOW Signal Strength,Not Moved,1551886217,1551886397,06-03-2019 10:33:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,,,-75,,LOW Signal Strength,Not Moved,1551902657,1551902837,06-03-2019 15:07:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-79,-41,LOW Signal Strength,Success,1551902927,1551903107,06-03-2019 15:11:47,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:30,2.4G,b8:ec:a3:2f:bd:31,5G,-41,-61,5G PREFERENCE,Success,1551903117,1551903317,06-03-2019 15:15:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-79,-61,LOW Signal Strength,Success,1551904937,1551905117,06-03-2019 15:45:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:30,2.4G,,,-61,,5G PREFERENCE,Not Moved,1551905127,1551905327,06-03-2019 15:48:47,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-79,-58,LOW Signal Strength,Success,1551905147,1551905327,06-03-2019 15:48:47,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:30,2.4G,,,-58,,5G PREFERENCE,Not Moved,1551905337,1551905537,06-03-2019 15:52:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-80,-60,LOW Signal Strength,Success,1551905357,1551905537,06-03-2019 15:52:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:30,2.4G,,,-60,,5G PREFERENCE,Not Moved,1551905547,1551905747,06-03-2019 15:55:47,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-78,-61,LOW Signal Strength,Success,1551905567,1551905747,06-03-2019 15:55:47,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:30,2.4G,,,-61,,5G PREFERENCE,Not Moved,1551905757,1551905957,06-03-2019 15:59:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-79,-64,LOW Signal Strength,Success,1551905777,1551905957,06-03-2019 15:59:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,b8:ec:a3:2f:bd:30,2.4G,-79,-61,LOW Signal Strength,Success,1551906017,1551906197,06-03-2019 16:03:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:30,2.4G,,,-61,,5G PREFERENCE,Not Moved,1551906207,1551906407,06-03-2019 16:06:47,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,,,-79,,LOW Signal Strength,Not Moved,1551921617,1551921797,06-03-2019 20:23:17,America/New_York
+48:4b:aa:af:cb:19,b8:ec:a3:2f:bd:31,5G,,,-79,,LOW Signal Strength,Missing,1551921797,1551922037,06-03-2019 20:27:17,America/New_York
+44:91:60:56:07:bc,04:bf:6d:5e:11:84,2.4G,04:bf:6d:5e:11:85,5G,-57,-51,5G PREFERENCE,Success,1551920758,1551920957,06-03-2019 20:09:17,America/New_York
+94:65:2d:82:4f:8d,b8:ec:a3:2f:bd:f9,5G,,,-80,,LOW Signal Strength,Not Moved,1551881117,1551881297,06-03-2019 09:08:17,America/New_York
+94:65:2d:82:4f:8d,b8:ec:a3:2f:bd:f9,5G,,,-87,,LOW Signal Strength,Missing,1551881297,1551881537,06-03-2019 09:12:17,America/New_York
+94:65:2d:82:4f:8d,b8:ec:a3:2f:bd:f9,5G,,,-80,,LOW Signal Strength,Not Moved,1551913127,1551913307,06-03-2019 18:01:47,America/New_York
+94:65:2d:82:4f:8d,b8:ec:a3:2f:bd:f9,5G,,,-83,,LOW Signal Strength,Missing,1551913307,1551913547,06-03-2019 18:05:47,America/New_York
+94:65:2d:82:4f:8d,b8:ec:a3:2f:bd:f9,5G,,,-82,,LOW Signal Strength,Not Moved,1551933377,1551933557,06-03-2019 23:39:17,America/New_York
+94:65:2d:82:4f:8d,b8:ec:a3:2f:bd:f9,5G,,,-86,,LOW Signal Strength,Not Moved,1551933587,1551933767,06-03-2019 23:42:47,America/New_York
+2c:0e:3d:95:a6:4e,04:bf:6d:5e:12:8d,5G,,,-83,,LOW Signal Strength,Not Moved,1551916337,1551916517,06-03-2019 18:55:17,America/New_York
+a4:50:46:1f:87:eb,b8:ec:a3:2f:bd:45,5G,,,-78,,LOW Signal Strength,Not Moved,1551902057,1551902237,06-03-2019 14:57:17,America/New_York
+a4:50:46:1f:87:eb,b8:ec:a3:2f:bd:45,5G,,,-81,,LOW Signal Strength,Missing,1551902237,1551902477,06-03-2019 15:01:17,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-75,-63,LOW Signal Strength,Success,1551873497,1551873677,06-03-2019 07:01:17,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-76,-78,LOW Signal Strength,Success,1551873707,1551873887,06-03-2019 07:04:47,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-75,-56,LOW Signal Strength,Success,1551918287,1551918467,06-03-2019 19:27:47,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dc,2.4G,b8:ec:a3:2f:bd:dd,5G,-56,-57,5G PREFERENCE,Success,1551918477,1551918677,06-03-2019 19:31:17,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-75,-54,LOW Signal Strength,Success,1551924557,1551924737,06-03-2019 21:12:17,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dc,2.4G,b8:ec:a3:2f:bd:dd,5G,-54,-73,5G PREFERENCE,Success,1551924747,1551924947,06-03-2019 21:15:47,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,b8:ec:a3:2f:bd:dc,2.4G,-75,-53,LOW Signal Strength,Success,1551925607,1551925787,06-03-2019 21:29:47,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,,,-75,,LOW Signal Strength,Not Moved,1551925817,1551925997,06-03-2019 21:33:17,America/New_York
+60:30:d4:3d:2a:73,b8:ec:a3:2f:bd:dd,5G,,,-76,,LOW Signal Strength,Not Moved,1551929327,1551929507,06-03-2019 22:31:47,America/New_York
+cc:c0:79:98:52:39,04:bf:6d:5e:12:81,5G,,,-78,,LOW Signal Strength,Not Moved,1551890867,1551891047,06-03-2019 11:50:47,America/New_York
+cc:c0:79:98:52:39,04:bf:6d:5e:12:81,5G,,,-87,,LOW Signal Strength,Missing,1551891077,1551891317,06-03-2019 11:55:17,America/New_York
+cc:c0:79:98:52:39,04:bf:6d:5e:12:81,5G,,,-76,,LOW Signal Strength,Missing,1551911597,1551911837,06-03-2019 17:37:17,America/New_York
+9c:f4:8e:9e:12:12,b8:ec:a3:2f:bd:55,5G,,,-76,,LOW Signal Strength,Not Moved,1551917147,1551917327,06-03-2019 19:08:47,America/New_York
+9c:f4:8e:9e:12:12,b8:ec:a3:2f:bd:55,5G,,,-77,,LOW Signal Strength,Not Moved,1551917327,1551917507,06-03-2019 19:11:47,America/New_York
+f4:96:34:86:af:ce,b8:ec:a3:2f:bd:74,2.4G,,,-37,,5G PREFERENCE,Not Moved,1551920787,1551920987,06-03-2019 20:09:47,America/New_York
+48:45:20:1b:21:d7,04:bf:6d:5e:12:81,5G,,,-79,,LOW Signal Strength,Missing,1551910847,1551911087,06-03-2019 17:24:47,America/New_York
+2c:0e:3d:76:2a:cc,b8:ec:a3:2f:bd:fd,5G,,,-79,,LOW Signal Strength,Missing,1551882437,1551882677,06-03-2019 09:31:17,America/New_York
+d4:a3:3d:a6:43:3c,b8:ec:a3:2f:bd:45,5G,,,-77,,LOW Signal Strength,Not Moved,1551882707,1551882887,06-03-2019 09:34:47,America/New_York
+d4:a3:3d:a6:43:3c,b8:ec:a3:2f:bd:45,5G,,,-80,,LOW Signal Strength,Missing,1551882917,1551883157,06-03-2019 09:39:17,America/New_York
+d4:a3:3d:a6:43:3c,b8:ec:a3:2f:bd:45,5G,,,-81,,LOW Signal Strength,Not Moved,1551902027,1551902207,06-03-2019 14:56:47,America/New_York
+d4:a3:3d:a6:43:3c,b8:ec:a3:2f:bd:44,2.4G,b8:ec:a3:2f:bd:45,5G,-59,-57,5G PREFERENCE,Success,1551909087,1551909287,06-03-2019 16:54:47,America/New_York
+d4:a3:3d:a6:43:3c,b8:ec:a3:2f:bd:45,5G,,,-78,,LOW Signal Strength,Not Moved,1551915107,1551915287,06-03-2019 18:34:47,America/New_York
+d4:a3:3d:a6:43:3c,b8:ec:a3:2f:bd:45,5G,,,-80,,LOW Signal Strength,Missing,1551915317,1551915557,06-03-2019 18:39:17,America/New_York
+b4:ae:2b:c6:2e:50,04:bf:6d:5e:26:78,2.4G,,,-56,,5G PREFERENCE,Not Moved,1551891777,1551891977,06-03-2019 12:06:17,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,b8:ec:a3:2f:bd:34,2.4G,-75,-43,LOW Signal Strength,Success,1551880997,1551881177,06-03-2019 09:06:17,America/New_York
+88:66:a5:ba:5b:1b,b8:ec:a3:2f:bd:34,2.4G,b8:ec:a3:2f:bd:35,5G,-43,-53,5G PREFERENCE,Success,1551881187,1551881387,06-03-2019 09:09:47,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,b8:ec:a3:2f:bd:35,5G,-75,-53,LOW Signal Strength,Success,1551881207,1551881387,06-03-2019 09:09:47,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,,,-75,,LOW Signal Strength,Not Moved,1551883697,1551883877,06-03-2019 09:51:17,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,,,-75,,LOW Signal Strength,Not Moved,1551909497,1551909677,06-03-2019 17:01:17,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,,,-75,,LOW Signal Strength,Not Moved,1551910337,1551910517,06-03-2019 17:15:17,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,,,-75,,LOW Signal Strength,Not Moved,1551913127,1551913307,06-03-2019 18:01:47,America/New_York
+88:66:a5:ba:5b:1b,04:bf:6d:5e:12:71,5G,b8:ec:a3:2f:bd:35,5G,-75,-47,LOW Signal Strength,Success,1551928367,1551928547,06-03-2019 22:15:47,America/New_York
+00:ae:fa:88:e6:e7,b8:ec:a3:2f:bd:19,5G,,,-80,,LOW Signal Strength,Not Moved,1551889427,1551889607,06-03-2019 11:26:47,America/New_York
+00:ae:fa:88:e6:e7,b8:ec:a3:2f:bd:19,5G,,,-75,,LOW Signal Strength,Not Moved,1551895757,1551895937,06-03-2019 13:12:17,America/New_York
+a0:c9:a0:89:33:71,04:bf:6d:5e:26:79,5G,,,-76,,LOW Signal Strength,Missing,1551883847,1551884087,06-03-2019 09:54:47,America/New_York
+a0:c9:a0:89:33:71,04:bf:6d:5e:26:79,5G,,,-78,,LOW Signal Strength,Not Moved,1551897287,1551897467,06-03-2019 13:37:47,America/New_York
+a0:c9:a0:89:33:71,04:bf:6d:5e:26:79,5G,,,-79,,LOW Signal Strength,Missing,1551897467,1551897707,06-03-2019 13:41:47,America/New_York
+a0:c9:a0:89:33:71,04:bf:6d:5e:26:79,5G,,,-81,,LOW Signal Strength,Not Moved,1551912827,1551913007,06-03-2019 17:56:47,America/New_York
+f0:98:9d:a3:89:f1,04:bf:6d:5e:11:91,5G,,,-77,,LOW Signal Strength,Not Moved,1551901247,1551901427,06-03-2019 14:43:47,America/New_York
+f0:98:9d:a3:89:f1,04:bf:6d:5e:11:91,5G,,,-78,,LOW Signal Strength,Not Moved,1551917117,1551917297,06-03-2019 19:08:17,America/New_York
+f0:98:9d:a3:89:f1,04:bf:6d:5e:11:91,5G,,,-78,,LOW Signal Strength,Not Moved,1551927497,1551927677,06-03-2019 22:01:17,America/New_York
+f0:79:60:68:b4:f7,b8:ec:a3:2f:bd:69,5G,,,-76,,LOW Signal Strength,Not Moved,1551881027,1551881207,06-03-2019 09:06:47,America/New_York
+f0:79:60:68:b4:f7,b8:ec:a3:2f:bd:69,5G,,,-80,,LOW Signal Strength,Not Moved,1551881207,1551881387,06-03-2019 09:09:47,America/New_York
+f0:79:60:68:b4:f7,b8:ec:a3:2f:bd:7d,5G,,,-86,,LOW Signal Strength,Not Moved,1551893597,1551893777,06-03-2019 12:36:17,America/New_York
+f0:79:60:68:b4:f7,b8:ec:a3:2f:bd:69,5G,,,-76,,LOW Signal Strength,Not Moved,1551897137,1551897317,06-03-2019 13:35:17,America/New_York
+f0:79:60:68:b4:f7,b8:ec:a3:2f:bd:69,5G,,,-84,,LOW Signal Strength,Not Moved,1551897347,1551897527,06-03-2019 13:38:47,America/New_York

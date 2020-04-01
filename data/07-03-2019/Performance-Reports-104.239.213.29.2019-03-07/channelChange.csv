@@ -1,0 +1,5 @@
+AP,date:time,channel,new channel,reason for change,interference before,interference after,overall before,overall after,noise level before,noise level after,result,client,client mac,rssi before,rssi after
+b8:ec:a3:2f:bd:17,06/03/2019 14:10,48,0,OBSS threshold,60,97,60,97,-93,-94,Channel not match,android-497d161d18f7a9a0,2c:59:8a:6b:53:c5,-55,-55
+b8:ec:a3:2f:bd:17,06/03/2019 14:11,48,0,OBSS threshold,60,2,60,2,-93,-103,Channel not match,android-497d161d18f7a9a0,2c:59:8a:6b:53:c5,-55,-56
+b8:ec:a3:2f:bd:17,06/03/2019 14:11,48,0,OBSS threshold,96,2,96,2,-93,-103,Channel not match,android-497d161d18f7a9a0,2c:59:8a:6b:53:c5,-55,-56
+b8:ec:a3:2f:bd:17,06/03/2019 14:12,48,157,OBSS threshold,96,2,96,2,-93,-102,Success,android-497d161d18f7a9a0,2c:59:8a:6b:53:c5,-55,-57

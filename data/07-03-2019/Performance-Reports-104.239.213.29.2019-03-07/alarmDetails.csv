@@ -1,0 +1,16 @@
+
+
+Historical Alarms - Detailed Log
+ap,apId,apName,entity,category,severity,message,deviceType,createdTime,updatedTime,ackBy,ackTime
+04:bf:6d:5e:26:6f,8108662df1b804bf6d5e266f,AP-4639,04:bf:6d:5e:26:6f/pollingTimeout,pollingTimeout,CRITICAL,AP 04:bf:6d:5e:26:6f Connection Lost more than 10 minutes CRITICAL Severity Message},AP,1551900160685,-1,,-1
+04:bf:6d:5e:26:6f,8108662df1b804bf6d5e266f,AP-4639,04:bf:6d:5e:26:6f/pollingTimeout,pollingTimeout,MAJOR,AP 04:bf:6d:5e:26:6f Connection Lost more than 5 minutes MAJOR Severity Message},AP,1551899800679,-1,,-1
+
+
+
+
+
+
+
+
+
+
