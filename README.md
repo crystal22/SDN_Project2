@@ -40,12 +40,12 @@ This project will apply ML techniques on user activity recognition and predictio
 
 **References**
 
-[Bal+02]Anand Balachandran et al. “Characterizing user behavior and net-work performance in a public wireless LAN”. In: Proceedings of the2002 ACM SIGMETRICS international conference on Measurementand modeling of computer systems. 2002, pp. 195–205.
+[Bal+02] Anand Balachandran et al. “Characterizing user behavior and net-work performance in a public wireless LAN”. In: Proceedings of the2002 ACM SIGMETRICS international conference on Measurementand modeling of computer systems. 2002, pp. 195–205.
 
-[Bhu14]Gitanjali  Bhutani. “Application of machine-learning based prediction techniques in wireless networks”.  In: Int’l J. of Communications, Network and System Sciences2014 (2014).
+[Bhu14] Gitanjali  Bhutani. “Application of machine-learning based prediction techniques in wireless networks”.  In: Int’l J. of Communications, Network and System Sciences2014 (2014).
 
-[Yu+15]Chen Yu et al. “Modeling user activity patterns for next-place prediction”. In: IEEE Systems Journal11.2 (2015), pp. 1060–1071.
+[Yu+15] Chen Yu et al. “Modeling user activity patterns for next-place prediction”. In: IEEE Systems Journal11.2 (2015), pp. 1060–1071.
 
-[For+18]Gabriel Ford et al. “Wireless network traffic disaggregation using Bayesian nonparametric techniques”. In: 2018 52nd Annual Conference on Information Sciences and Systems (CISS). IEEE. 2018,pp. 1–6.
+[For+18] Gabriel Ford et al. “Wireless network traffic disaggregation using Bayesian nonparametric techniques”. In: 2018 52nd Annual Conference on Information Sciences and Systems (CISS). IEEE. 2018,pp. 1–6.
 
-[Sun+19]Yaohua Sun et al. “Application of machine learning in wireless net-works: Key techniques and open issues”. In:IEEE CommunicationsSurveys & Tutorials21.4 (2019), pp. 3072–310
+[Sun+19] Yaohua Sun et al. “Application of machine learning in wireless net-works: Key techniques and open issues”. In:IEEE CommunicationsSurveys & Tutorials21.4 (2019), pp. 3072–310
